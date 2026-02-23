@@ -1,0 +1,11 @@
+# Example requirements.txt
+# Add your project dependencies below, e.g.:
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+arch
+keras
+tensorflow
+# Add any other packages your scripts require
