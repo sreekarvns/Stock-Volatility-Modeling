@@ -1,5 +1,11 @@
 # Project Title: ATSA Case Study
 
+
+best model:
+
+<img width="1257" height="1324" alt="image" src="https://github.com/user-attachments/assets/2a33f2ce-5fb2-44ea-955d-083247e9792b" />
+
+
 This repository contains code and data for the ATSA (Advanced Time Series Analysis) case study project.
 
 ## Getting Started
@@ -33,3 +39,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](LICENSE)
+
